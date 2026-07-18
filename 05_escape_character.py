@@ -1,0 +1,6 @@
+print("Name:\tTahimul Islam Tamim")
+print("District:\tCox's Bazar")
+print("Country:\tBangladesh")
+print("\nWelcome to Python!")
+print("He said, \"Hello!\"")
+print("Folder: C:\\Python\\Programs")
