@@ -1,0 +1,5 @@
+print("Personal Information")
+print("Name: Tahimul Islam Tamim")
+print("Age: 19")
+print("District: Cox's Bazar")
+print("Country: Bangladesh")
