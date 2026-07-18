@@ -1,0 +1,6 @@
+print("Name: Tahimul Islam Tamim")
+print("Village: Khurushkul")
+print("Post Office: Khurushkul")
+print("Upazila: Cox's Bazar")
+print("District: Cox's Bazar")
+print("Country: Bangladesh")
